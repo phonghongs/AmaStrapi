@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_data_data_1s",
+  "info": {
+    "displayName": "Happy Halloween",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "playlistId": {
+      "type": "string"
+    },
+    "displayNameLocID": {
+      "type": "string"
+    },
+    "displayDescriptionLocID": {
+      "type": "string"
+    },
+    "coverSquareURL": {
+      "type": "string"
+    },
+    "coverSlantURL": {
+      "type": "string"
+    },
+    "backgroundURL": {
+      "type": "string"
+    },
+    "backgroundSpecialURL": {
+      "type": "string"
+    }
+  }
+}

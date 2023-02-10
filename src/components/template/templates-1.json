@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_template_templates_1s",
+  "info": {
+    "displayName": "Happy Halloween",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "type": {
+      "type": "string"
+    },
+    "featureId": {
+      "type": "string"
+    },
+    "data": {
+      "type": "component",
+      "repeatable": false,
+      "component": "data.data-1"
+    }
+  }
+}

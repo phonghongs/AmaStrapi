@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_data_data_3s",
+  "info": {
+    "displayName": "SongOfTheDay Event",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "playlistId": {
+      "type": "string"
+    },
+    "displayNameLocID": {
+      "type": "string"
+    },
+    "displayDescriptionLocID": {
+      "type": "string"
+    },
+    "SongOfTheDayID": {
+      "type": "string"
+    },
+    "backgroundURL": {
+      "type": "string"
+    },
+    "backgroundSpecialURL": {
+      "type": "string"
+    }
+  }
+}

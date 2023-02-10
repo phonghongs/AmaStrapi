@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "live_events",
+  "info": {
+    "singularName": "live-event",
+    "pluralName": "live-events",
+    "displayName": "LiveEvent",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "InternalID": {
+      "type": "string"
+    },
+    "Schedule": {
+      "type": "component",
+      "repeatable": false,
+      "component": "main.schedule"
+    },
+    "template": {
+      "type": "dynamiczone",
+      "components": [
+        "template.saturday-blog",
+        "template.template-3",
+        "template.templates-1",
+        "template.templates-2"
+      ]
+    }
+  }
+}

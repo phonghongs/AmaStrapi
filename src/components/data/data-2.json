@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_data_data_2s",
+  "info": {
+    "displayName": "Monday Event",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "playlistId": {
+      "type": "string"
+    },
+    "displayNameLocID": {
+      "type": "string"
+    },
+    "displayDescriptionLocID": {
+      "type": "string"
+    },
+    "playListURL": {
+      "type": "string"
+    }
+  }
+}

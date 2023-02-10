@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "notifs",
+  "info": {
+    "singularName": "notif",
+    "pluralName": "notifs",
+    "displayName": "Notif",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "A": {
+      "type": "string"
+    },
+    "B": {
+      "type": "string"
+    },
+    "C": {
+      "type": "string"
+    }
+  }
+}

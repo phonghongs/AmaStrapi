@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_main_schedules",
+  "info": {
+    "displayName": "Schedule",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "StartDay": {
+      "type": "datetime"
+    },
+    "endDay": {
+      "type": "datetime"
+    },
+    "TimeZone": {
+      "type": "enumeration",
+      "enum": [
+        "UTC+12:00",
+        "UTS-12:00"
+      ],
+      "default": "UTC+12:00"
+    }
+  }
+}

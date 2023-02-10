@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_template_templates_2s",
+  "info": {
+    "displayName": "Monday Event",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "type": {
+      "type": "string"
+    },
+    "featureId": {
+      "type": "string"
+    },
+    "data": {
+      "type": "component",
+      "repeatable": false,
+      "component": "data.data-2"
+    }
+  }
+}

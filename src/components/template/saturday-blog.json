@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_template_saturday_blogs",
+  "info": {
+    "displayName": "Saturday Blog",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "type": {
+      "type": "string"
+    },
+    "featureId": {
+      "type": "string"
+    },
+    "data": {
+      "type": "component",
+      "repeatable": false,
+      "component": "data.saturday-blog"
+    }
+  }
+}
