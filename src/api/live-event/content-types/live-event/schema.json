@@ -12,21 +12,19 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "InternalID": {
+    "partyID": {
       "type": "string"
     },
-    "Schedule": {
-      "type": "component",
-      "repeatable": false,
-      "component": "main.schedule"
+    "startAt": {
+      "type": "datetime"
     },
-    "template": {
+    "endAt": {
+      "type": "datetime"
+    },
+    "features": {
       "type": "dynamiczone",
       "components": [
-        "template.saturday-blog",
-        "template.template-3",
-        "template.templates-1",
-        "template.templates-2"
+        "data.demo-data"
       ]
     }
   }

@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_template_friday_13_events",
+  "info": {
+    "displayName": "Friday 13 Event"
+  },
+  "options": {},
+  "attributes": {
+    "type": {
+      "type": "string"
+    },
+    "featureId": {
+      "type": "string"
+    }
+  }
+}

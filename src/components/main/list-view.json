@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_main_list_views",
+  "info": {
+    "displayName": "ListView"
+  },
+  "options": {},
+  "attributes": {
+    "Value": {
+      "type": "string"
+    }
+  }
+}

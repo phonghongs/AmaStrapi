@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * notif controller
+ * test-field controller
  */
 
 const { createCoreController } = require('@strapi/strapi').factories;
 
-module.exports = createCoreController('api::notif.notif');
+module.exports = createCoreController('api::test-field.test-field');

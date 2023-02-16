@@ -1,5 +1,5 @@
 {
-  "name": "test-2",
+  "name": "po-tools",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -10,11 +10,13 @@
     "strapi": "strapi"
   },
   "dependencies": {
+    "@strapi/design-system": "^1.6.3",
+    "@strapi/plugin-color-picker": "^4.6.1",
     "@strapi/plugin-i18n": "4.6.0",
     "@strapi/plugin-users-permissions": "4.6.0",
     "@strapi/strapi": "4.6.0",
     "better-sqlite3": "7.4.6",
-    "strapi-plugin-import-export-amavoid": "^1.0.1"
+    "strapi-plugin-import-export-amavoid": "^1.0.8"
   },
   "author": {
     "name": "A Strapi developer"

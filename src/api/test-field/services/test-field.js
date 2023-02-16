@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * notif service
+ * test-field service
  */
 
 const { createCoreService } = require('@strapi/strapi').factories;
 
-module.exports = createCoreService('api::notif.notif');
+module.exports = createCoreService('api::test-field.test-field');

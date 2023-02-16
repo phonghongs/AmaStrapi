@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_data_friday_13s",
+  "info": {
+    "displayName": "Friday 13"
+  },
+  "options": {},
+  "attributes": {
+    "songID": {
+      "type": "string"
+    },
+    "songListURL": {
+      "type": "string"
+    },
+    "Background": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "Condition": {
+      "type": "component",
+      "repeatable": true,
+      "component": "main.list-view"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_template_demo_templates",
+  "info": {
+    "displayName": "DemoTemplate"
+  },
+  "options": {},
+  "attributes": {
+    "featureId": {
+      "type": "string",
+      "required": true
+    },
+    "type": {
+      "type": "string"
+    },
+    "data": {
+      "type": "component",
+      "repeatable": false,
+      "component": "data.demo-data"
+    }
+  }
+}

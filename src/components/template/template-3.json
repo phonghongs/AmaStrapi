@@ -16,6 +16,11 @@
       "type": "component",
       "repeatable": false,
       "component": "data.data-3"
+    },
+    "Condition": {
+      "type": "component",
+      "repeatable": true,
+      "component": "main.list-view"
     }
   }
 }

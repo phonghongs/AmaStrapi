@@ -1,13 +1,22 @@
 {
-  "collectionName": "components_data_data_1s",
+  "collectionName": "components_data_demo_data",
   "info": {
-    "displayName": "Happy Halloween",
+    "displayName": "DemoData",
     "description": ""
   },
   "options": {},
   "attributes": {
+    "featureId": {
+      "type": "string",
+      "required": true
+    },
+    "type": {
+      "type": "string",
+      "required": true
+    },
     "playlistId": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "displayNameLocId": {
       "type": "string"
